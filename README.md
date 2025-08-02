@@ -1,0 +1,1 @@
+To rebuild, run `pnpm run linkme`

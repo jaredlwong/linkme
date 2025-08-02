@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "lib": ["esnext", "DOM"], // DOM for web-stuff
+    "module": "esnext",
+    "moduleResolution": "node",
+    "jsx": "react-jsx",
+    "outDir": "build",
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true
+  }
+}
